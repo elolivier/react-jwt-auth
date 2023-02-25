@@ -1,4 +1,4 @@
-# React App with JWT
+# React App with JWT Authentication
 App created to interact with this [SpringBoot Backend](https://github.com/elolivier/java-jwt-auth) which generates JWT token for existent users and return the token in the `Authorization` Header response.
 
 ## Description
